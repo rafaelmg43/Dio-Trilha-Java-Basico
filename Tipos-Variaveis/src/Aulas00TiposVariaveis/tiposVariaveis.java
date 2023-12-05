@@ -1,3 +1,5 @@
+package Aulas00TiposVariaveis;
+
 public class tiposVariaveis {
     public static void main(String[] args) {
         //Variavel Tipo + nomevariavel = Atribuição

@@ -1,3 +1,5 @@
+package Aulas01Operadores;
+
 public class operadores3ternario {
     public static void main(String[] args) {
         int a, b;

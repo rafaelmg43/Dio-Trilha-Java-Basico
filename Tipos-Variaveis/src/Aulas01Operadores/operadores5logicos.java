@@ -1,3 +1,5 @@
+package Aulas01Operadores;
+
 public class operadores5logicos {
     public static void main(String[] args) {
         boolean condicao1 = true;

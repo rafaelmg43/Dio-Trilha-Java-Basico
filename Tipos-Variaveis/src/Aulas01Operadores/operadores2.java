@@ -1,3 +1,5 @@
+package Aulas01Operadores;
+
 public class operadores2 {
     public static void main(String[] args) {
         // x repetição
