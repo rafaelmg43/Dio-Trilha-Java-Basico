@@ -15,15 +15,15 @@ public class Aula05CondicoesSwitchCase {
         String sigla = "M";
 
         switch (sigla) {
-            case "P":{
+            case "P": {
                 System.out.println("Pequeno");
                 break;
             }
-            case "M":{
+            case "M": {
                 System.out.println("Medio");
                 break;
             }
-            case "G":{
+            case "G": {
                 System.out.println("Grande");
                 break;
             }
