@@ -1,3 +1,5 @@
+package ControleFluxo.Condicoes;
+
 public class Aula05CondicoesSwitchCase {
     public static void main(String[] args) {
         //Sistema de Medida usando if else

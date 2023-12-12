@@ -1,3 +1,5 @@
+package ControleFluxo.Condicoes;
+
 public class Aula04CondicoesTernario {
     public static void main(String[] args) {
         int nota = 6;

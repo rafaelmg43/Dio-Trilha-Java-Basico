@@ -1,3 +1,5 @@
+package ControleFluxo.Condicoes;
+
 public class Aula5CondicoesSwitchCaseExercicio {
     public static void main(String[] args) {
 //        Imagina que fomos requisitados a criar um sistema de plano telefônico onde:
